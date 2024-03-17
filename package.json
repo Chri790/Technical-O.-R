@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://chri790.github.io/technica-O.-R",
+  "homepage": "https://{chri790}.github.io/{technical-O.-R}",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://chri790.github.io/technical-O.R'",
+    "build-gh": "parcel build --public-url 'https://{chri790}.github.io/{technical-O.R}'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
